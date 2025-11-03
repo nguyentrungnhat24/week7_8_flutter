@@ -1,3 +1,5 @@
+Nguyễn Trung Nhật 22IT206
+
 # 🛒 LoginApp - Flutter E-commerce Authentication
 
 Ứng dụng Flutter với hệ thống đăng nhập/đăng ký hoàn chỉnh sử dụng **Firebase Authentication** và **BLoC Pattern**.
