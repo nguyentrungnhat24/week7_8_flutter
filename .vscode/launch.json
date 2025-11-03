@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+  
+    {
+      "name": "fl_week01 (Flutter Windows)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/src/main.dart",
+      "args": ["-d", "windows"]
+    }
+  ]
+}

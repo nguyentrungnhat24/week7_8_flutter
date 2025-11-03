@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682216970253",
+    "project_id": "login-d2d6a",
+    "storage_bucket": "login-d2d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682216970253:android:dfc3cf07628c49ef5a9d44",
+        "android_client_info": {
+          "package_name": "com.example.fl_week01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vbs69Xy_ccwDK-eFxNbl2xYgPTNzQxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
